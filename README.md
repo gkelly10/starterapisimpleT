@@ -1,5 +1,18 @@
-This is my starter api with get post delete, put, and an edit button.
+Starter API with Task Management
 
-User can add new task and send feedback on how easy or challenging it is.
 
-![Screenshot 2024-11-18 at 8 00 21 PM](https://github.com/user-attachments/assets/8f16c829-8292-4fa3-818c-29bec56e60a5)
+This is a simple API for managing tasks. It supports the full set of CRUD operations: Create, Read, Update, and Delete. Users can add new tasks, update them, and delete them. There is also a feedback feature where users can rate how easy or challenging the task management process is.
+
+Features
+
+-Add new tasks
+
+-Edit existing tasks
+
+-Delete tasks
+
+-Rate task management experience
+
+
+![Screenshot 2024-11-20 at 7 07 20 PM](https://github.com/user-attachments/assets/d528f756-f94f-4773-ba54-3e5a83a2e41f)
+
